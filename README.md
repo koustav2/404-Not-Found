@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/koustav2/404-Not-Found/blob/main/assets/pic.png?raw=true)
+![screenshot](https://raw.githubusercontent.com/koustav2/404-Not-Found/b6f183334f11b81e8263e64b5c0e4c25a2279018/src/assets/pic.png)
 
 
 ### Built With
