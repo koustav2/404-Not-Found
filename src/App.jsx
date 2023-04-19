@@ -1,5 +1,5 @@
 import { useState } from 'react'
-
+import Scarecrow from './assets/scarecrow.png'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -13,7 +13,7 @@ function App() {
       <div className='grid  m-auto container justify-center  '>
         <div className='sm:flex flex-row gap-10 justify-center items-center'>
           <div>
-            <img src="/src/assets/Scarecrow.png" alt="" className='' />
+            <img src={Scarecrow} alt="" />
           </div>
           <div className='grid grid-rows-1'>
             <h2 className='box-border'>
