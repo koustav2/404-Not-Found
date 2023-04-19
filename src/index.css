@@ -107,6 +107,32 @@ h2 {
   }
 }
 
+@media (min-width: 425px) {
+  .container{
+    padding: 58px;
+  }
+  img {
+    height: 220.35203552246094px;
+    width: 286.829833984375px;
+    left: 44px;
+    /* top: 109px; */
+  }
+  h2 {
+    margin-top: 10px;
+    font-family: "Space Mono";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 60px;
+    letter-spacing: -0.035em;
+  }
+  p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+  }
+}
+
 @media (min-width: 1444px) {
   .container{
     padding: 300px;
