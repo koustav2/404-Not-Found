@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
 
-      <div className='mt-5 ml-10'>
+      <div className='mt-5 ml-10 font-bold '>
         <h1>404 Not Found </h1>
 
       </div>
@@ -16,11 +16,11 @@ function App() {
             <img src={Scarecrow} alt="" />
           </div>
           <div className='grid grid-rows-1'>
-            <h2 className='box-border'>
+            <h2 className='body'>
               I had bad
               news for you
             </h2>
-            <div className='border-none border-sky-500 mt-7 mb-10 content'>
+            <div className='body border-none border-sky-500 mt-7 mb-10 content'>
               <p>The page you are looking for might be removed or is temporarily unavailable</p>
             </div>
             <div class="button_container">
