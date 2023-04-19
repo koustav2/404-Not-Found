@@ -62,5 +62,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://vercel.com/maitykoustav865-gmailcom/portfolio)
+- Website [your-website.com](https://portfolio-one-sooty-73.vercel.app/)
 - GitHub [@your-username](https://github.com/koustav2)
