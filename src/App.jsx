@@ -23,7 +23,11 @@ function App() {
             <div className='border-none border-sky-500 mt-7 mb-10 content'>
               <p>The page you are looking for might be removed or is temporarily unavailable</p>
             </div>
-            <button >Back to homepage</button>
+            <div class="button_container">
+              <button class="btn">
+                <span>Back To HomePage</span>
+              </button>
+            </div>
           </div>
         </div>
       </div>
