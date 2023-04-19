@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Scarecrow from './assets/scarecrow.png'
+import Scarecrow from './assets/Scarecrow.png'
 function App() {
   const [count, setCount] = useState(0)
 
