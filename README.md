@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-not-found-rosy-two.vercel.app/" target='_blank'>
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/koustav2/404-Not-Found">
+    <a href="https://github.com/koustav2/404-Not-Found" target='_blank'>
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target='_blank'>
       Challenge
     </a>
   </h3>
